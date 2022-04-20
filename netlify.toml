@@ -1,0 +1,11 @@
+[build]
+  publish = "public"
+  command = "npm install && npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/404"
+  status = 404
+
+[template.environment]
+  TITLE = "set your site title here"

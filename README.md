@@ -1,5 +1,7 @@
 # Starter for the Digital Garden theme
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/anpigon/gatsby-starter-digital-garden-template)
+
 Quickly get started using the Gatsby garden theme! This starter creates a new Gatsby site that is preconfigured to work with the [Gatsby garden theme](https://www.npmjs.com/package/gatsby-theme-garden).
 
 ## 🚀 Quick start
